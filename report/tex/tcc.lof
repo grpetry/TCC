@@ -1,0 +1,5 @@
+\select@language {brazilian}
+\select@language {english}
+\select@language {brazilian}
+\contentsline {figure}{\numberline {Figura\nobreakspace 1:}{\ignorespaces Exemplo de figura importada de um arquivo \texttt {.eps} e tamb\'em exemplo de caption muito grande que ocupa mais de uma linha na Lista de~Figuras.}}{23}
+\contentsline {figure}{\numberline {Figura\nobreakspace 2:}{\ignorespaces Exemplo de figura desenhada com o ambiente \texttt {picture}.}}{23}

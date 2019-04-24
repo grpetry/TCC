@@ -1,0 +1,11 @@
+\select@language {brazilian}
+\select@language {english}
+\select@language {brazilian}
+\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{23}
+\contentsline {section}{\numberline {1.1}Figuras e tabelas}{23}
+\contentsline {subsection}{\numberline {1.1.1}Classifica\c c\~ao dos etc.}{23}
+\contentsline {section}{\numberline {1.2}Sobre as refer\^encias bibliogr\'aficas}{24}
+\setbox \@tempboxa \hbox {{{\sffamily \textbf {\MakeUppercase {Ap{\^e}ndice} }}}}\deletex@chapnumindent \wd \@tempboxa \setbox \@tempboxa \box \voidb@x \advance \deletex@chapnumindent 1.8em\relax 
+\contentsline {chapter}{\numberline {\MakeUppercase {Ap{\^e}ndice} A}T\IeC {\'\i }tulo do Ap\^endice}{25}
+\setbox \@tempboxa \hbox {{{\sffamily \textbf {\MakeUppercase {Anexo} }}}}\deletex@chapnumindent \wd \@tempboxa \setbox \@tempboxa \box \voidb@x \advance \deletex@chapnumindent 1.8em\relax 
+\contentsline {chapter}{\numberline {\MakeUppercase {Anexo} A}T\IeC {\'\i }tulo do Anexo}{27}
